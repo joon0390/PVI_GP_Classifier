@@ -1,1 +1,1 @@
-# PVI_GP_Classifier
+# PVI-GP-Classifier
